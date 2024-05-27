@@ -1,0 +1,26 @@
+body {
+    background-color: #181717;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    max-height: 100%;
+    max-width: 90%;
+    margin: auto;
+}
+
+#content {
+    max-width: 650px;
+}
+
+.check {
+    text-decoration: line-through;
+}
+
+a,
+a:visited {
+    color: #f0c051;
+    font-weight: bold;
+}
