@@ -24,3 +24,11 @@ a:visited {
     color: #f0c051;
     font-weight: bold;
 }
+
+h2, h3 {
+    color: #f0c051;
+}
+
+h3 {
+    font-style: italic;
+}
